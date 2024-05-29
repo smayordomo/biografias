@@ -18,3 +18,6 @@ barplot(prop.table(mi_tabla) * 100, main = "Frequencia relativa (%)",
         col = rainbow(3))
 
 par(mfrow = c(1, 1))
+
+#Comentario mas ferson que son personas diacríticas
+
